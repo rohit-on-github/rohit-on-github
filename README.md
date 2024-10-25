@@ -2,7 +2,7 @@
 **Location:** Indore, M.P. 452016  
 **Phone:** 8989059838  
 **Email:** [rohitbhandari.work@gmail.com](mailto:rohitbhandari.work@gmail.com)  
-**LinkedIn:** [linkedin.com/rohitonlinked](https://www.linkedin.com/rohitonlinked)  
+**LinkedIn:** [linkedin.com/in/rohitonlinked](https://www.linkedin.com/in/rohitonlinked)  
 
 ## DATA ENGINEER
 Results-oriented Data Engineer with 4+ years of experience in building and optimizing ETL workflows, data pipelines, and architecting scalable data solutions. Proficient in cloud technologies and committed to driving business growth through data-driven insights and innovations.
